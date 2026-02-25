@@ -1,0 +1,15 @@
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    align-items: center;
+    font-style: bold;
+}
+/*  a red background, white text, a font size of 32px, center aligned, and bold */
+
+p {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+/* p: a green background, white text, and a font size of 18px */

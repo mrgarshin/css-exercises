@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+.first-btn {
+    background-color: black;
+    color: white;
+}
+.sec-btn {
+    background-color: yellow;
+}
+.both {
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetice, sans-serif;
+}
